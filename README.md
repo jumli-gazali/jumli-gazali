@@ -3,7 +3,7 @@
 Perkenalkan nama saya **M. Jumli Gazali**.\
 Saya seorang **Mahasiswa Informatika** di [**Universitas Bengkulu**](https://www.unib.ac.id/).\
 Saya tertarik dengan bidang **Kecerdasan Buatan** .\
-Saya sekarang sedang mengikuti program [**Bangkit Academy 2023 Batch 1**](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) sebagai **Machine Learning Cohort**.\
+Saya sekarang sedang mengikuti program [**Bangkit Academy 2023 Batch 1**](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) sebagai **Machine Learning Cohort**.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/m-jumli-gazali-319bb2255/)ku ya.
  
